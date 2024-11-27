@@ -12,5 +12,7 @@ if (soma = numero){
 return soma ;
 }
 
+sout (soma);
+
 
 

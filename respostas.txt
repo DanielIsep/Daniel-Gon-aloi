@@ -2,3 +2,5 @@ merge é a junçao de duas branches para 'juntar os ficheiros dos mesmos e as modi
 existe tipos de merge como o fast foward merge que é o default quando o historico é o mesmo
 o three way merge que é quando o historico é diferente e o git tenta fazer o merge dos mesmos
 e o squash merge, que junta varios comitos em um só e o merge é feito
+
+o comando para ver os ficheiros adicionados staged e nao staged é feito com o comando git status

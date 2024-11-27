@@ -1,0 +1,16 @@
+Adiconar digito
+Scanner sc = new Scanner
+int numero = sc.nextint
+int n = sc.nextint
+int c = sc.nextint
+
+
+int soma = 0;
+soma =  n + c ;
+
+if (soma = numero){
+return soma ;
+}
+
+
+

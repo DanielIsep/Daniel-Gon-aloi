@@ -4,3 +4,5 @@ o three way merge que é quando o historico é diferente e o git tenta fazer o mer
 e o squash merge, que junta varios comitos em um só e o merge é feito
 
 o comando para ver os ficheiros adicionados staged e nao staged é feito com o comando git status
+
+o comando git log ve o historial de commits associados ao ficheiro especificado
